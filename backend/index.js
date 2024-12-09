@@ -13,7 +13,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://book-app-frontend-tau.vercel.app",
-      "https://papaya-blancmange-c899f0.netlify.app/",
+      "https://papaya-blancmange-c899f0.netlify.app",
     ],
     credentials: true,
   })
