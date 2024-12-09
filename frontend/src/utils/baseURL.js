@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-  return "https://beeback-1.onrender.com";
+  return "https://bee-gsk2.onrender.com";
 };
 
 export default getBaseUrl;
