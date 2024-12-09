@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-  return "https://localhost:5000";
+  return "http://localhost:5000";
   //   return "https://bee-gsk2.onrender.com";
 };
 
